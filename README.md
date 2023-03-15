@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @enryahhh
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning NodeJS , Python , ML
-- 📫 insta:lingjul_05 
+- 📫 instagram:lingjul_05 
+- Medium : [Lingga Juliansyah](https://medium.com/@linggaj28)
 
 <!---
 enryahhh/enryahhh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

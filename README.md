@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @enryahhh
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning NodeJS , Python , ML
+- 🌱 I’m currently learning in Tech , stay hungry stay foolish
 - 📫 instagram:lingjul_05 
 - Medium : [Lingga Juliansyah](https://medium.com/@linggaj28)
 
